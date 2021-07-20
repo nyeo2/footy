@@ -33,7 +33,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.get("/api/get", (require, response) => {
-    const sqlSelect = "SELECT * FROM Players LIMIT 5";
+    const sqlSelect = "SELECT * FROM Players NATURAL JOIN Country LIMIT 5";
     db.query(sqlSelect, (err, result) => {
         response.send(result);
     });
