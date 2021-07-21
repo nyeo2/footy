@@ -1,0 +1,521 @@
+Name,Year,Club,Goals,Assists,Shots,Minutes Played,Country,Club Position
+Martín Demichelis,15/16,manchester-city,1,0.0,1.0,247,Argentina,LCB
+Stefan Kießling,15/16,bayer-04-leverkusen,0,0.0,2.0,118,Germany,Sub
+Bastian Schweinsteiger,15/16,manchester-united,0,0.0,5.0,423,Germany,LCM
+Per Mertesacker,15/16,arsenal,0,0.0,2.0,483,Germany,Sub
+Diego Benaglio,15/16,as-monaco,0,0.0,0.0,720,Switzerland,GK
+Cesc Fàbregas,15/16,chelsea,1,1.0,8.0,604,Spain,Sub
+Mathieu Flamini,15/16,arsenal,0,0.0,1.0,233,France,Sub
+Gaël Clichy,15/16,manchester-city,0,0.0,0.0,710,France,LB
+Steed Malbranque,15/16,olympique-lyonnais,0,0.0,0.0,73,France,Sub
+Xabi Alonso,15/16,bayern-munchen,1,0.0,10.0,655,Spain,Sub
+Cristiano Ronaldo,15/16,juventus,16,4.0,66.0,1109,Portugal,LW
+Wayne Rooney,15/16,manchester-united,1,0.0,6.0,360,England,Sub
+Michael Carrick,15/16,manchester-united,0,0.0,1.0,111,England,CDM
+Bacary Sagna,15/16,manchester-city,0,0.0,1.0,910,France,RB
+Petr Čech,15/16,arsenal,0,0.0,0.0,450,Czech Republic,GK
+John Terry,15/16,chelsea,0,0.0,0.0,342,England,Sub
+Tiago,15/16,atletico-madrid,0,0.0,5.0,390,Portugal,Sub
+Lukas Podolski,15/16,galatasaray,2,0.0,10.0,499,Germany,ST
+Francesco Totti,15/16,roma,0,0.0,0.0,19,Italy,Sub
+Daniele De Rossi,15/16,roma,2,0.0,4.0,463,Italy,RCM
+Wesley Sneijder,15/16,galatasaray,0,1.0,14.0,540,Netherlands,CAM
+Thomas Vermaelen,15/16,barcelona,0,0.0,0.0,270,Belgium,Sub
+Júlio César,15/16,sl-benfica,0,0.0,0.0,630,Brazil,Sub
+Giorgio Chiellini,15/16,juventus,0,0.0,2.0,540,Italy,LCB
+Marco Andreolli,15/16,sevilla,0,0.0,0.0,180,Italy,Sub
+Esteban Cambiasso,15/16,olympiacos,0,0.0,0.0,246,Argentina,LCM
+Gianluigi Buffon,15/16,juventus,0,0.0,0.0,750,Italy,GK
+Zlatan Ibrahimović,15/16,manchester-united,5,3.0,34.0,879,Sweden,ST
+Roberto Hilbert,15/16,bayer-04-leverkusen,0,0.0,0.0,194,Germany,Res
+Fernando Torres,15/16,atletico-madrid,1,1.0,16.0,675,Spain,Sub
+Michael Krohn-Dehli,15/16,sevilla,0,1.0,3.0,259,Denmark,Sub
+Gabi,15/16,atletico-madrid,0,3.0,8.0,1168,Spain,RCM
+Andrea Barzagli,15/16,juventus,0,1.0,0.0,590,Italy,Sub
+Morgan De Sanctis,15/16,as-monaco,0,0.0,0.0,40,Italy,Sub
+Patrice Evra,15/16,juventus,0,0.0,3.0,492,France,LB
+Jérémy Mathieu,15/16,sporting-cp,0,0.0,1.0,270,France,Sub
+Karim Benzema,15/16,real-madrid,4,0.0,24.0,604,France,ST
+Kévin Gameiro,15/16,valencia,1,0.0,10.0,315,France,LS
+Samir Nasri,15/16,sevilla,0,0.0,0.0,83,France,CAM
+Dante,15/16,vfl-wolfsburg,0,0.0,2.0,810,Brazil,LCB
+Mathieu Debuchy,15/16,arsenal,0,0.0,1.0,188,France,Res
+Thiago Motta,15/16,paris-saint-germain,0,0.0,3.0,743,Italy,Sub
+Stephan Lichtsteiner,15/16,juventus,1,0.0,5.0,556,Switzerland,RB
+Dani Alves,15/16,paris-saint-germain,0,3.0,3.0,694,Brazil,Sub
+Adriano,15/16,besiktas,1,0.0,2.0,206,Brazil,LB
+Fabian Johnson,15/16,borussia-mgladbach,2,1.0,5.0,424,United States,LM
+Sami Khedira,15/16,juventus,0,0.0,1.0,303,Germany,LDM
+Stijn Schaars,15/16,psv-eindhoven,0,0.0,0.0,18,Netherlands,CDM
+Umut Bulut,15/16,galatasaray,0,0.0,8.0,271,Turkey,Sub
+Luisão,15/16,sl-benfica,1,1.0,1.0,360,Brazil,RCB
+Henri Bedimo,15/16,olympique-lyonnais,0,0.0,3.0,270,Cameroon,Sub
+Arda Turan,15/16,barcelona,0,0.0,0.0,46,Turkey,Sub
+Franck Ribéry,15/16,bayern-munchen,0,0.0,10.0,447,France,Sub
+Blaise Matuidi,15/16,juventus,0,2.0,4.0,761,France,LCM
+Pepe,15/16,fc-porto,0,0.0,1.0,758,Portugal,RCB
+Vincent Kompany,15/16,manchester-city,0,0.0,0.0,363,Belgium,Sub
+Hakan Balta,15/16,galatasaray,0,0.0,1.0,528,Turkey,LCB
+Nicolas Lombaerts,15/16,zenit-st-petersburg,0,0.0,1.0,692,Belgium,Sub
+Eliseu,15/16,sl-benfica,0,2.0,9.0,874,Portugal,LB
+Miguel Veloso,15/16,dynamo-kyiv,0,0.0,1.0,331,Portugal,LCM
+Oscar Wendt,15/16,borussia-mgladbach,0,0.0,1.0,534,Sweden,LB
+Ivan Rakitić,15/16,sevilla,2,2.0,8.0,700,Croatia,CAM
+Johan Wiland,15/16,malmo-ff,0,0.0,0.0,540,Sweden,GK
+Markus Rosenberg,15/16,malmo-ff,1,0.0,13.0,450,Sweden,RS
+Naldo,15/16,fc-schalke-04,2,0.0,5.0,720,Brazil,Sub
+Naldo,15/16,fc-schalke-04,2,0.0,5.0,720,Brazil,LCB
+Manuel Neuer,15/16,bayern-munchen,0,0.0,0.0,1020,Germany,GK
+Gary Cahill,15/16,chelsea,1,0.0,4.0,541,England,LCB
+Pontus Wernbloom,15/16,cska-moscow,0,0.0,4.0,540,Sweden,LDM
+Theo Walcott,15/16,arsenal,2,1.0,12.0,319,England,RM
+Alex Oxlade-Chamberlain,15/16,liverpool,0,0.0,3.0,238,England,RDM
+Ashley Young,15/16,inter,0,0.0,0.0,252,England,Sub
+Sergio Ramos,15/16,real-madrid,1,0.0,5.0,899,Spain,LCB
+Darijo Srna,15/16,shakhtar-donetsk,1,0.0,5.0,450,Croatia,RB
+Javier Mascherano,15/16,barcelona,0,0.0,1.0,655,Argentina,Sub
+David Silva,15/16,manchester-city,2,0.0,8.0,629,Spain,LCM
+David Silva,15/16,manchester-city,2,0.0,8.0,629,Colombia,Sub
+Pablo Zabaleta,15/16,manchester-city,0,0.0,0.0,151,Argentina,Sub
+Antonio Valencia,15/16,manchester-united,0,1.0,0.0,139,Ecuador,RB
+Juanfran,15/16,atletico-madrid,0,2.0,3.0,1140,Spain,RB
+Juanfran,15/16,atletico-madrid,0,2.0,3.0,1140,Spain,RB
+Jesús Navas,15/16,sevilla,0,1.0,11.0,736,Spain,Sub
+Rafinha,15/16,olympiacos,0,0.0,2.0,225,Brazil,RM
+Rafinha,15/16,olympiacos,0,0.0,2.0,225,Brazil,Sub
+Rafinha,15/16,olympiacos,0,0.0,2.0,225,Brazil,RB
+Lionel Messi,15/16,barcelona,6,1.0,28.0,630,Argentina,RW
+Jesús Gámez,15/16,atletico-madrid,0,0.0,0.0,90,Spain,Sub
+Igor Akinfeev,15/16,cska-moscow,0,0.0,0.0,540,Russia,GK
+Sergey Ignashevich,15/16,cska-moscow,1,0.0,1.0,495,Russia,LCB
+Fernandinho,15/16,manchester-city,2,3.0,18.0,1049,Brazil,Sub
+Milan Biševac,15/16,olympique-lyonnais,0,0.0,0.0,180,Serbia,Sub
+Asmir Begović,15/16,chelsea,0,0.0,0.0,450,Bosnia Herzegovina,Sub
+Javi García,15/16,zenit-st-petersburg,0,0.0,0.0,520,Spain,CDM
+Nicklas Bendtner,15/16,vfl-wolfsburg,0,0.0,4.0,90,Denmark,ST
+Domenico Criscito,15/16,zenit-st-petersburg,0,0.0,2.0,522,Italy,LB
+Yaya Touré,15/16,manchester-city,1,2.0,18.0,742,Ivory Coast,CDM
+Ezequiel Garay,15/16,valencia,0,0.0,2.0,540,Argentina,RCB
+Philipp Lahm,15/16,bayern-munchen,0,0.0,2.0,1110,Germany,RB
+Diego Godín,15/16,inter,0,1.0,10.0,1109,Uruguay,LCB
+Andrés Guardado,15/16,psv-eindhoven,0,1.0,3.0,627,Mexico,CDM
+Mikhail Kerzhakov,15/16,zenit-st-petersburg,0,0.0,0.0,180,Russia,Sub
+Edin Džeko,15/16,roma,2,1.0,13.0,481,Bosnia Herzegovina,ST
+Christian Träsch,15/16,vfl-wolfsburg,0,1.0,3.0,627,Germany,Sub
+Rasmus Bengtsson,15/16,malmo-ff,0,0.0,1.0,450,Sweden,RCB
+Gareth Bale,15/16,real-madrid,0,2.0,21.0,643,Wales,RW
+Leonardo Bonucci,15/16,juventus,0,0.0,5.0,750,Italy,RCB
+Andriy Pyatov,15/16,shakhtar-donetsk,0,0.0,0.0,360,Ukraine,GK
+Luka Modrić,15/16,real-madrid,1,1.0,7.0,902,Croatia,RCM
+Lars Bender,15/16,bayer-04-leverkusen,0,0.0,0.0,134,Germany,RDM
+Konstantinos Mitroglou,15/16,sl-benfica,2,1.0,7.0,361,Greece,RS
+Mesut Özil,15/16,arsenal,2,0.0,10.0,720,Germany,CAM
+Yann Sommer,15/16,borussia-mgladbach,0,0.0,0.0,540,Switzerland,GK
+Jérémy Morel,15/16,olympique-lyonnais,0,0.0,3.0,348,France,LB
+Benoît Trémoulinas,15/16,sevilla,1,0.0,1.0,540,France,Res
+Mathieu Valbuena,15/16,olympiacos,0,1.0,8.0,450,France,Sub
+Loïc Rémy,15/16,lille-osc,0,0.0,2.0,102,France,Sub
+Christophe Jallet,15/16,olympique-lyonnais,1,1.0,4.0,286,France,RB
+Joe Hart,15/16,manchester-city,0,0.0,0.0,1071,England,GK
+Luis Suárez,15/16,atletico-madrid,8,3.0,25.0,810,Uruguay,ST
+Nacho Monreal,15/16,arsenal,0,1.0,2.0,540,Spain,LB
+Sergio Agüero,15/16,manchester-city,2,0.0,19.0,703,Argentina,ST
+Santi Cazorla,15/16,arsenal,0,1.0,6.0,439,Spain,Sub
+Oleksandr Kucher,15/16,shakhtar-donetsk,0,0.0,4.0,450,Ukraine,RCB
+Maicon,15/16,roma,0,0.0,0.0,114,Brazil,Sub
+Maxwell,15/16,paris-saint-germain,0,2.0,1.0,810,Brazil,Sub
+Marcelo,15/16,real-madrid,0,1.0,11.0,910,Brazil,LB
+Marcelo,15/16,real-madrid,0,1.0,11.0,910,Brazil,RCB
+Marcelo,15/16,real-madrid,0,1.0,11.0,910,Brazil,RCB
+Raffael,15/16,borussia-mgladbach,2,1.0,13.0,517,Brazil,LS
+Oleksandr Rybka,15/16,dynamo-kyiv,0,0.0,0.0,90,Ukraine,Sub
+Kiko Casilla,15/16,real-madrid,0,0.0,0.0,180,Spain,Sub
+Arturo Vidal,15/16,inter,2,3.0,22.0,857,Chile,LDM
+Olcan Adın,15/16,galatasaray,0,0.0,1.0,268,Turkey,RM
+Burak Yılmaz,15/16,galatasaray,0,0.0,6.0,266,Turkey,Res
+Eduardo,15/16,gnk-dinamo-zagreb,0,0.0,0.0,540,Portugal,Sub
+Eduardo,15/16,gnk-dinamo-zagreb,0,0.0,0.0,540,Brazil,LCM
+Eduardo,15/16,gnk-dinamo-zagreb,0,0.0,0.0,540,Brazil,Sub
+Mario Mandžukić,15/16,juventus,2,1.0,7.0,341,Croatia,LM
+Bibras Natcho,15/16,cska-moscow,0,0.0,1.0,292,Israel,Sub
+Matteo Darmian,15/16,inter,0,0.0,1.0,308,Italy,Sub
+Artem Dzyuba,15/16,zenit-st-petersburg,6,2.0,18.0,633,Russia,ST
+Jérôme Boateng,15/16,bayern-munchen,0,0.0,4.0,537,Germany,Sub
+Gregory van der Wiel,15/16,paris-saint-germain,0,1.0,2.0,375,Netherlands,Sub
+Diego Costa,15/16,atletico-madrid,2,1.0,14.0,663,Spain,ST
+Claudio Beauvue,15/16,olympique-lyonnais,0,0.0,3.0,193,France,Sub
+William Vainqueur,15/16,roma,0,0.0,1.0,193,France,CDM
+David Luiz,15/16,chelsea,1,0.0,3.0,630,Brazil,CB
+Edinson Cavani,15/16,manchester-united,2,0.0,14.0,642,Uruguay,ST
+Lasse Nielsen,15/16,kaa-gent,0,0.0,0.0,720,Denmark,LCB
+Lasse Nielsen,15/16,kaa-gent,0,0.0,0.0,720,Denmark,LCB
+Marouane Fellaini,15/16,manchester-united,0,0.0,3.0,206,Belgium,Sub
+Yasin Öztekin,15/16,galatasaray,0,0.0,9.0,392,Turkey,Sub
+Ibrahima Traoré,15/16,borussia-mgladbach,0,0.0,6.0,287,Guinea,Res
+Håvard Nordtveit,15/16,1899-hoffenheim,0,0.0,3.0,368,Norway,Sub
+Ezequiel Lavezzi,15/16,paris-saint-germain,0,0.0,4.0,86,Argentina,Res
+Rafinha,15/16,kaa-gent,0,0.0,0.0,271,Brazil,RM
+Rafinha,15/16,kaa-gent,0,0.0,0.0,271,Brazil,Sub
+Rafinha,15/16,kaa-gent,0,0.0,0.0,271,Brazil,RB
+Aaron Ramsey,15/16,juventus,0,1.0,3.0,290,Wales,Sub
+Lars Stindl,15/16,borussia-mgladbach,3,2.0,11.0,517,Germany,RS
+Fabian Delph,15/16,manchester-city,0,0.0,1.0,115,England,Sub
+Adil Rami,15/16,sevilla,0,0.0,1.0,360,France,RCB
+Seydou Doumbia,15/16,sporting-cp,3,0.0,9.0,419,Ivory Coast,ST
+Kirill Nababkin,15/16,cska-moscow,0,0.0,0.0,165,Russia,Sub
+Danny,15/16,zenit-st-petersburg,1,2.0,5.0,716,Portugal,Sub
+Alejandro Domínguez,15/16,olympiacos,0,0.0,1.0,97,Argentina,Sub
+Kieran Gibbs,15/16,arsenal,0,0.0,0.0,212,England,Sub
+Branislav Ivanović,15/16,zenit-st-petersburg,0,0.0,2.0,360,Serbia,RCB
+Viktor Vasin,15/16,cska-moscow,0,0.0,0.0,45,Russia,Sub
+Viktor Fayzulin,15/16,zenit-st-petersburg,0,0.0,0.0,31,Russia,Res
+Aleksandar Kolarov,15/16,inter,0,0.0,2.0,391,Serbia,Sub
+Zoran Tošić,15/16,cska-moscow,0,1.0,7.0,490,Serbia,RM
+Toni Kroos,15/16,real-madrid,0,1.0,10.0,994,Germany,LCM
+Max Kruse,15/16,vfl-wolfsburg,2,1.0,11.0,683,Germany,LS
+Sven Ulreich,15/16,bayern-munchen,0,0.0,0.0,90,Germany,Sub
+Morgan Schneiderlin,15/16,manchester-united,0,0.0,2.0,270,France,LDM
+Aurélien Chedjou,15/16,galatasaray,0,1.0,2.0,360,Cameroon,RCB
+Medhi Benatia,15/16,juventus,0,0.0,3.0,175,Morocco,Sub
+Holger Badstuber,15/16,bayern-munchen,0,0.0,0.0,52,Germany,Sub
+Eden Hazard,15/16,real-madrid,0,1.0,11.0,525,Belgium,LW
+Miralem Pjanić,15/16,barcelona,2,1.0,11.0,570,Bosnia Herzegovina,RDM
+Claudio Marchisio,15/16,juventus,0,0.0,3.0,405,Italy,Sub
+Jo Inge Berget,15/16,malmo-ff,0,0.0,5.0,495,Norway,LM
+Javi Fuego,15/16,valencia,0,0.0,2.0,354,Spain,RDM
+Juan Mata,15/16,manchester-united,1,2.0,4.0,328,Spain,Sub
+Luiz Gustavo,15/16,vfl-wolfsburg,0,0.0,11.0,630,Brazil,LDM
+Kyriakos Papadopoulos,15/16,bayer-04-leverkusen,1,0.0,3.0,361,Greece,RCB
+Nicklas Pedersen,15/16,kaa-gent,0,0.0,0.0,10,Denmark,Sub
+Ángel Di María,15/16,paris-saint-germain,3,2.0,21.0,765,Argentina,RW
+Arjen Robben,15/16,bayern-munchen,2,1.0,5.0,158,Netherlands,RM
+Selçuk İnan,15/16,galatasaray,2,0.0,6.0,450,Turkey,RDM
+Jem Karacan,15/16,galatasaray,0,0.0,0.0,90,Turkey,Sub
+Willian,15/16,chelsea,5,1.0,12.0,641,Brazil,Sub
+Ljubomir Fejsa,15/16,sl-benfica,0,0.0,0.0,382,Serbia,CDM
+Artem Kravets,15/16,dynamo-kyiv,0,0.0,2.0,147,Ukraine,Sub
+Éver Banega,15/16,sevilla,2,0.0,7.0,412,Argentina,CAM
+Bas Dost,15/16,sporting-cp,1,0.0,9.0,370,Netherlands,RS
+Nana Asare,15/16,kaa-gent,0,0.0,5.0,720,Ghana,LM
+Héctor Moreno,15/16,psv-eindhoven,1,0.0,2.0,750,Mexico,LCB
+Maurício,15/16,zenit-st-petersburg,0,0.0,1.0,85,Brazil,Sub
+Maurício,15/16,zenit-st-petersburg,0,0.0,1.0,85,Brazil,LCM
+Thiago Silva,15/16,chelsea,0,0.0,3.0,810,Brazil,LCB
+David Ospina,15/16,napoli,0,0.0,0.0,270,Colombia,Sub
+Tony Jantschke,15/16,borussia-mgladbach,0,0.0,1.0,90,Germany,RB
+Danny Welbeck,15/16,arsenal,0,0.0,3.0,91,England,LM
+Enzo Pérez,15/16,valencia,0,0.0,1.0,361,Argentina,RCM
+Pablo Piatti,15/16,valencia,0,1.0,3.0,225,Argentina,LM
+Augusto Fernández,15/16,atletico-madrid,0,1.0,2.0,362,Argentina,Sub
+Alexis Sánchez,15/16,inter,3,5.0,11.0,622,Chile,ST
+Javier Hernández,15/16,bayer-04-leverkusen,5,0.0,18.0,487,Mexico,ST
+Thomas Müller,15/16,bayern-munchen,8,2.0,30.0,926,Germany,CAM
+Sebastian Rode,15/16,borussia-dortmund,0,1.0,4.0,90,Germany,Sub
+Jordi Alba,15/16,barcelona,0,1.0,3.0,734,Spain,LCB
+Pedro,15/16,chelsea,0,0.0,6.0,294,Spain,RW
+Axel Witsel,15/16,borussia-dortmund,1,1.0,9.0,630,Belgium,Res
+Agon Mehmeti,15/16,malmo-ff,0,0.0,1.0,28,Albania,Sub
+Tobias Sana,15/16,malmo-ff,0,0.0,0.0,64,Sweden,Sub
+Sofiane Feghouli,15/16,galatasaray,2,0.0,4.0,411,Algeria,RM
+Aleksandar Dragović,15/16,bayer-04-leverkusen,1,0.0,1.0,720,Austria,LCB
+Admir Mehmedi,15/16,bayer-04-leverkusen,4,0.0,11.0,370,Switzerland,Sub
+Kevin Trapp,15/16,paris-saint-germain,0,0.0,0.0,900,Germany,GK
+Clément Grenier,15/16,stade-rennais,0,0.0,2.0,70,France,Sub
+Ömer Toprak,15/16,borussia-dortmund,0,0.0,0.0,248,Turkey,RCB
+Yacine Brahimi,15/16,fc-porto,1,0.0,9.0,406,Algeria,LM
+Olivier Giroud,15/16,chelsea,5,0.0,16.0,387,France,Sub
+Márcio Azevedo,15/16,shakhtar-donetsk,0,0.0,1.0,244,Brazil,Sub
+Oscar,15/16,chelsea,2,1.0,8.0,362,Brazil,Res
+Sergio Busquets,15/16,barcelona,0,0.0,4.0,724,Spain,CDM
+Mehdi Carcela-González,15/16,olympiacos,0,0.0,1.0,140,Morocco,RM
+Wilfried Bony,15/16,manchester-city,2,2.0,12.0,279,Ivory Coast,Sub
+Rafael,15/16,basaksehir-fk,0,0.0,3.0,337,Brazil,Sub
+Rafael,15/16,basaksehir-fk,0,0.0,3.0,337,Brazil,GK
+Rafael,15/16,basaksehir-fk,0,0.0,3.0,337,Brazil,Sub
+Taison,15/16,shakhtar-donetsk,0,1.0,3.0,256,Brazil,LM
+Evandro,15/16,fc-porto,0,0.0,3.0,74,Brazil,Sub
+Mariano,15/16,galatasaray,0,0.0,0.0,81,Brazil,RB
+Mariano,15/16,galatasaray,0,0.0,0.0,81,Dominican Republic,Sub
+Daniel Caligiuri,15/16,fc-schalke-04,1,1.0,10.0,434,Italy,Sub
+André Hahn,15/16,borussia-mgladbach,0,0.0,0.0,99,Germany,Sub
+Francis Coquelin,15/16,valencia,0,0.0,1.0,393,France,LDM
+Luuk de Jong,15/16,sevilla,2,1.0,9.0,559,Netherlands,ST
+Jeroen Zoet,15/16,psv-eindhoven,0,0.0,0.0,750,Netherlands,GK
+Dimitrios Siovas,15/16,olympiacos,0,1.0,3.0,540,Greece,Sub
+Vieirinha,15/16,vfl-wolfsburg,1,1.0,4.0,477,Portugal,Sub
+Yevhen Konoplyanka,15/16,shakhtar-donetsk,2,1.0,13.0,423,Ukraine,Sub
+Coke,15/16,sevilla,0,1.0,2.0,492,Spain,Res
+Robert Lewandowski,15/16,bayern-munchen,9,1.0,40.0,942,Poland,ST
+Fernando,15/16,sevilla,0,2.0,4.0,779,Brazil,RDM
+Fernando,15/16,sevilla,0,2.0,4.0,779,Brazil,Sub
+Fernando,15/16,sevilla,0,2.0,4.0,779,Spain,Sub
+Alan Dzagoev,15/16,cska-moscow,0,0.0,3.0,531,Russia,RDM
+Nicolás Gaitán,15/16,atletico-madrid,4,3.0,16.0,701,Argentina,Sub
+Eliaquim Mangala,15/16,valencia,0,0.0,1.0,613,France,LCB
+Igor Smolnikov,15/16,fc-krasnodar,0,0.0,1.0,273,Russia,Sub
+Luciano Narsingh,15/16,psv-eindhoven,1,0.0,2.0,438,Netherlands,Sub
+Radja Nainggolan,15/16,inter,0,1.0,13.0,585,Belgium,LF
+Nemanja Matić,15/16,manchester-united,0,0.0,2.0,377,Serbia,LCM
+André Almeida,15/16,sl-benfica,0,1.0,2.0,655,Portugal,Sub
+Maicon,15/16,galatasaray,1,0.0,3.0,270,Brazil,Sub
+Daley Blind,15/16,ajax,0,1.0,0.0,477,Netherlands,LB
+Taras Stepanenko,15/16,shakhtar-donetsk,0,1.0,4.0,410,Ukraine,LDM
+Josuha Guilavogui,15/16,vfl-wolfsburg,0,0.0,5.0,689,France,Sub
+Vasyl Kobin,15/16,shakhtar-donetsk,0,0.0,0.0,90,Ukraine,Sub
+Ciro Immobile,15/16,lazio,0,0.0,1.0,70,Italy,ST
+Stephan El Shaarawy,15/16,roma,0,0.0,2.0,138,Italy,Sub
+Sven Kums,15/16,rsc-anderlecht,2,2.0,6.0,720,Belgium,Sub
+Thomas Matton,15/16,kaa-gent,1,0.0,2.0,273,Belgium,Sub
+Yoshimar Yotún,15/16,malmo-ff,0,0.0,1.0,303,Peru,Sub
+Marcos Rojo,15/16,manchester-united,0,0.0,4.0,309,Argentina,Sub
+Diego Perotti,15/16,roma,0,0.0,1.0,180,Argentina,Sub
+Eduardo Salvio,15/16,sl-benfica,0,0.0,1.0,92,Argentina,RM
+Semih Kaya,15/16,galatasaray,0,0.0,2.0,360,Turkey,Sub
+Chris Smalling,15/16,manchester-united,1,0.0,3.0,540,England,LCB
+Juan Cuadrado,15/16,juventus,1,0.0,9.0,468,Colombia,RM
+Jonas,15/16,sl-benfica,2,2.0,17.0,726,Brazil,LS
+Douglas Costa,15/16,bayern-munchen,2,3.0,17.0,927,Brazil,LM
+Simone Zaza,15/16,juventus,1,0.0,2.0,30,Italy,ST
+Anthony Lopes,15/16,olympique-lyonnais,0,0.0,0.0,540,Portugal,GK
+Ervin Zukanović,15/16,roma,0,0.0,1.0,90,Bosnia Herzegovina,Sub
+Sebastian Jung,15/16,vfl-wolfsburg,0,1.0,0.0,157,Germany,Sub
+Artur Yusupov,15/16,zenit-st-petersburg,0,0.0,1.0,166,Russia,Sub
+Nemanja Nikolić,15/16,bate-borisov,0,1.0,1.0,267,Hungary,CAM
+Alexandre Lacazette,15/16,olympique-lyonnais,2,0.0,14.0,501,France,ST
+Nikola Đurđić,15/16,malmo-ff,0,0.0,6.0,447,Serbia,Sub
+Luka Milivojević,15/16,olympiacos,0,0.0,3.0,360,Serbia,CDM
+Anton Tinnerholm,15/16,malmo-ff,0,0.0,1.0,540,Sweden,RB
+Wojciech Szczęsny,15/16,juventus,0,0.0,0.0,680,Poland,GK
+Laurent Koscielny,15/16,arsenal,0,0.0,1.0,597,France,LCB
+Bakary Koné,15/16,olympique-lyonnais,0,0.0,0.0,13,Burkina Faso,Res
+Willy Caballero,15/16,chelsea,0,0.0,0.0,9,Argentina,GK
+Keylor Navas,15/16,paris-saint-germain,0,0.0,0.0,1020,Costa Rica,GK
+Sergey Chernik,15/16,bate-borisov,0,0.0,0.0,540,Belarus,GK
+Oleg Shatov,15/16,zenit-st-petersburg,2,3.0,5.0,486,Russia,LW
+Luís Neto,15/16,zenit-st-petersburg,0,0.0,0.0,403,Portugal,LCB
+André André,15/16,fc-porto,2,1.0,6.0,394,Portugal,Sub
+Marlos,15/16,shakhtar-donetsk,0,0.0,2.0,443,Brazil,RM
+Rami Gershon,15/16,kaa-gent,0,0.0,0.0,90,Israel,Sub
+David Alaba,15/16,bayern-munchen,1,1.0,11.0,930,Austria,LB
+Mario Götze,15/16,borussia-dortmund,2,0.0,4.0,107,Germany,Sub
+Ricardo Rodríguez,15/16,vfl-wolfsburg,1,1.0,4.0,736,Switzerland,LCB
+Emre Çolak,15/16,galatasaray,0,0.0,0.0,48,Turkey,CAM
+Nacho Fernández,15/16,real-madrid,1,0.0,2.0,358,Spain,Sub
+Jan Oblak,15/16,atletico-madrid,0,0.0,0.0,1230,Slovenia,GK
+Timm Klose,15/16,vfl-wolfsburg,0,0.0,0.0,102,Switzerland,LCB
+Davy Pröpper,15/16,psv-eindhoven,1,0.0,10.0,750,Netherlands,RCM
+Koen Casteels,15/16,vfl-wolfsburg,0,0.0,0.0,180,Belgium,Sub
+Thibaut Courtois,15/16,real-madrid,0,0.0,0.0,270,Belgium,GK
+Kevin De Bruyne,15/16,manchester-city,3,0.0,11.0,711,Belgium,RCM
+Maxime Lestienne,15/16,psv-eindhoven,2,2.0,8.0,201,Belgium,Sub
+Younès Belhanda,15/16,galatasaray,0,0.0,1.0,31,Morocco,LW
+Nicolás Otamendi,15/16,manchester-city,0,0.0,5.0,939,Argentina,LCB
+Grzegorz Krychowiak,15/16,lokomotiv-moscow,0,0.0,6.0,540,Poland,Sub
+Stefan Savić,15/16,atletico-madrid,0,0.0,1.0,482,Montenegro,RCB
+Stefan Savić,15/16,atletico-madrid,0,0.0,1.0,482,Austria,Sub
+Pizzi,15/16,sl-benfica,0,0.0,3.0,532,Portugal,CM
+Matz Sels,15/16,rsc-anderlecht,0,0.0,0.0,720,Belgium,Sub
+Georgi Milanov,15/16,cska-moscow,0,0.0,1.0,215,Bulgaria,Sub
+Ismaily,15/16,shakhtar-donetsk,0,0.0,2.0,180,Brazil,LB
+Jardel,15/16,sl-benfica,0,0.0,4.0,810,Brazil,Sub
+Jardel,15/16,sl-benfica,0,0.0,4.0,810,Portugal,Res
+Ivo Pinto,15/16,gnk-dinamo-zagreb,0,0.0,0.0,270,Portugal,RB
+Javier Pastore,15/16,roma,0,0.0,0.0,97,Argentina,Sub
+Miguel Layún,15/16,fc-porto,1,2.0,4.0,460,Mexico,Sub
+Ander Herrera,15/16,paris-saint-germain,0,0.0,3.0,166,Spain,RCM
+Maxime Gonalons,15/16,roma,0,1.0,2.0,432,France,RCM
+Kevin Kampl,15/16,rb-leipzig,1,2.0,8.0,540,Slovenia,LDM
+Koke,15/16,atletico-madrid,0,1.0,10.0,1037,Spain,RM
+Koke,15/16,atletico-madrid,0,1.0,10.0,1037,Spain,Res
+Alex Sandro,15/16,juventus,0,1.0,2.0,392,Brazil,LB
+Antoine Griezmann,15/16,barcelona,7,1.0,31.0,1133,France,RS
+Jeffrey Bruma,15/16,fc-schalke-04,0,0.0,4.0,750,Netherlands,RCB
+Marc-André ter Stegen,15/16,barcelona,0,0.0,0.0,900,Germany,GK
+Shkodran Mustafi,15/16,arsenal,0,0.0,3.0,450,Germany,RCB
+Lucas Orbán,15/16,valencia,0,0.0,0.0,90,Argentina,Sub
+Phil Jones,15/16,manchester-united,0,0.0,0.0,108,England,Sub
+Thorgan Hazard,15/16,borussia-dortmund,0,0.0,2.0,117,Belgium,Sub
+Benito Raman,15/16,kaa-gent,0,0.0,0.0,78,Belgium,Sub
+Paco Alcácer,15/16,borussia-dortmund,0,1.0,10.0,397,Spain,Sub
+Lucas Digne,15/16,barcelona,0,2.0,3.0,720,France,Sub
+Samuel Umtiti,15/16,barcelona,0,0.0,4.0,360,France,CB
+Giannelli Imbula,15/16,fc-porto,0,0.0,3.0,268,France,Sub
+Jürgen Locadia,15/16,psv-eindhoven,1,0.0,7.0,539,Netherlands,Sub
+Nico Schulz,15/16,borussia-dortmund,0,0.0,0.0,17,Germany,Sub
+Danilo Pereira,15/16,paris-saint-germain,0,0.0,4.0,486,Portugal,CDM
+Omar Elabdellaoui,15/16,olympiacos,0,0.0,3.0,528,Norway,RB
+Giulio Donati,15/16,bayer-04-leverkusen,0,0.0,0.0,346,Italy,RB
+Patrick Herrmann,15/16,borussia-mgladbach,0,0.0,2.0,72,Germany,RM
+Bernd Leno,15/16,bayer-04-leverkusen,0,0.0,0.0,540,Germany,GK
+Isco,15/16,real-madrid,0,3.0,11.0,711,Spain,Sub
+Pajtim Kasami,15/16,olympiacos,0,0.0,8.0,490,Switzerland,Sub
+Aymen Abdennour,15/16,valencia,0,0.0,3.0,329,Tunisia,Sub
+Serge Aurier,15/16,tottenham,1,1.0,1.0,409,Ivory Coast,Sub
+Benjamin Stambouli,15/16,fc-schalke-04,0,0.0,1.0,111,France,LDM
+Josip Drmić,15/16,borussia-mgladbach,0,0.0,0.0,102,Switzerland,Sub
+James Rodríguez,15/16,real-madrid,1,0.0,7.0,265,Colombia,CAM
+Felipe Pardo,15/16,olympiacos,3,1.0,5.0,434,Colombia,Sub
+Andreas Samaris,15/16,sl-benfica,0,0.0,2.0,494,Greece,Sub
+Dentinho,15/16,shakhtar-donetsk,1,0.0,1.0,43,Brazil,Sub
+Karim Bellarabi,15/16,bayer-04-leverkusen,0,2.0,12.0,421,Germany,RM
+Stefan Mitrović,15/16,kaa-gent,0,0.0,2.0,630,Serbia,CB
+Sergi Darder,15/16,olympique-lyonnais,0,0.0,4.0,223,Spain,Sub
+Christoph Kramer,15/16,borussia-mgladbach,0,0.0,1.0,398,Germany,Sub
+Adam Maher,15/16,psv-eindhoven,0,2.0,4.0,253,Netherlands,CAM
+Paul Pogba,15/16,manchester-united,1,2.0,17.0,750,France,LCM
+Marco van Ginkel,15/16,psv-eindhoven,0,0.0,1.0,210,Netherlands,Sub
+Oscar Lewicki,15/16,malmo-ff,0,0.0,2.0,461,Sweden,Sub
+Julian Korb,15/16,borussia-mgladbach,1,2.0,3.0,438,Germany,Sub
+Cristian Tello,15/16,fc-porto,1,1.0,7.0,246,Spain,Sub
+Renato Neto,15/16,kaa-gent,0,1.0,11.0,720,Brazil,RCM
+Vincent Aboubakar,15/16,fc-porto,3,1.0,13.0,483,Cameroon,Sub
+Bruno Martins Indi,15/16,fc-porto,0,0.0,1.0,540,Netherlands,LCB
+Granit Xhaka,15/16,arsenal,0,1.0,9.0,450,Switzerland,Sub
+Roberto Pereyra,15/16,juventus,0,0.0,0.0,61,Argentina,Sub
+Brecht Dejaegere,15/16,kaa-gent,0,1.0,7.0,400,Belgium,Sub
+Lionel Carole,15/16,galatasaray,0,0.0,0.0,270,France,LB
+Casemiro,15/16,real-madrid,0,0.0,9.0,925,Brazil,Sub
+Rachid Ghezzal,15/16,as-monaco,0,1.0,2.0,125,Algeria,RW
+Jordan Ferri,15/16,olympique-lyonnais,1,0.0,7.0,297,France,Sub
+Nick Powell,15/16,manchester-united,0,0.0,1.0,21,England,Res
+Jesús Corona,15/16,fc-porto,0,0.0,3.0,179,Mexico,RM
+Sergi Roberto,15/16,barcelona,1,0.0,4.0,334,Spain,Sub
+Neymar,15/16,paris-saint-germain,3,4.0,27.0,810,Brazil,LW
+Danilo,15/16,juventus,0,1.0,4.0,575,Brazil,Sub
+Danilo,15/16,juventus,0,1.0,4.0,575,Brazil,RCB
+Danilo,15/16,juventus,0,1.0,4.0,575,Brazil,Sub
+Danilo,15/16,juventus,0,1.0,4.0,575,Brazil,Sub
+Danilo,15/16,juventus,0,1.0,4.0,575,Belgium,RM
+Filip Mladenović,15/16,bate-borisov,2,0.0,5.0,540,Serbia,LB
+Marco Verratti,15/16,paris-saint-germain,0,1.0,3.0,358,Italy,RCM
+Vitolo,15/16,atletico-madrid,1,1.0,3.0,450,Spain,LM
+Vitolo,15/16,atletico-madrid,1,1.0,3.0,450,Spain,RDM
+Aderllan Santos,15/16,valencia,0,0.0,1.0,211,Brazil,Sub
+Facundo Ferreyra,15/16,shakhtar-donetsk,0,0.0,0.0,16,Argentina,ST
+Robin Knoche,15/16,vfl-wolfsburg,0,0.0,1.0,180,Germany,Sub
+Łukasz Teodorczyk,15/16,rsc-anderlecht,0,0.0,2.0,95,Poland,ST
+Salih Uçan,15/16,roma,0,0.0,0.0,22,Turkey,Sub
+Layvin Kurzawa,15/16,paris-saint-germain,0,0.0,0.0,90,France,LB
+Mateo Kovačić,15/16,chelsea,1,0.0,3.0,340,Croatia,Sub
+Ivan Ordets,15/16,shakhtar-donetsk,0,0.0,0.0,90,Ukraine,Sub
+Raphaël Varane,15/16,real-madrid,0,0.0,1.0,439,France,Sub
+José Rodríguez,15/16,galatasaray,0,0.0,0.0,31,Spain,LDM
+Raheem Sterling,15/16,manchester-city,3,2.0,15.0,577,England,RW
+Vladlen Yurchenko,15/16,bayer-04-leverkusen,0,0.0,0.0,12,Ukraine,Sub
+Jetro Willems,15/16,psv-eindhoven,0,0.0,1.0,165,Netherlands,LB
+Memphis Depay,15/16,olympique-lyonnais,1,0.0,12.0,327,Netherlands,LW
+João Cancelo,15/16,manchester-city,1,0.0,3.0,459,Portugal,Sub
+Kurt Zouma,15/16,chelsea,1,0.0,2.0,468,France,Sub
+Daniele Rugani,15/16,stade-rennais,0,0.0,0.0,1,Italy,Sub
+Ahmed Musa,15/16,leicester-city,1,0.0,8.0,540,Nigeria,Sub
+Antonio Rüdiger,15/16,chelsea,0,0.0,2.0,540,Germany,LCB
+Julian Draxler,15/16,paris-saint-germain,3,2.0,12.0,655,Germany,LW
+Hernani,15/16,fc-porto,0,0.0,2.0,146,Brazil,Sub
+Mário Fernandes,15/16,cska-moscow,0,1.0,0.0,450,Russia,RB
+Maximilian Arnold,15/16,vfl-wolfsburg,1,0.0,4.0,712,Germany,CAM
+André Ramalho,15/16,red-bull-salzburg,0,0.0,1.0,90,Brazil,LCB
+Stefano Sturaro,15/16,juventus,1,0.0,5.0,430,Italy,Sub
+Alessandro Florenzi,15/16,paris-saint-germain,1,0.0,11.0,644,Italy,Sub
+Joel Campbell,15/16,sporting-cp,0,2.0,1.0,267,Costa Rica,Sub
+Simon Kroon,15/16,malmo-ff,0,0.0,0.0,34,Sweden,Sub
+Marquinhos,15/16,paris-saint-germain,0,0.0,2.0,540,Brazil,RCB
+Santiago Arias,15/16,atletico-madrid,0,0.0,1.0,560,Colombia,RB
+Mohamed Salah,15/16,liverpool,1,0.0,11.0,543,Egypt,RF
+Mohamed Elneny,15/16,arsenal,1,0.0,2.0,90,Egypt,Sub
+Kalifa Coulibaly,15/16,kaa-gent,2,0.0,5.0,34,Mali,ST
+Denis Cheryshev,15/16,valencia,0,0.0,4.0,37,Russia,Sub
+Sinan Gümüş,15/16,galatasaray,0,0.0,0.0,40,Turkey,Sub
+Laurent Depoitre,15/16,fc-porto,1,0.0,8.0,618,Belgium,Sub
+Lisandro López,15/16,sl-benfica,0,0.0,1.0,180,Argentina,Sub
+Lisandro López,15/16,sl-benfica,0,0.0,1.0,180,Argentina,LS
+Arthur Masuaku,15/16,olympiacos,0,0.0,3.0,450,France,Res
+Yannick Carrasco,15/16,atletico-madrid,1,2.0,10.0,573,Belgium,LM
+Andreas Christensen,15/16,chelsea,0,0.0,0.0,450,Denmark,RCB
+Bryan Cristante,15/16,roma,0,0.0,0.0,11,Italy,Sub
+Héctor Bellerín,15/16,arsenal,0,1.0,0.0,528,Spain,RB
+Marko Pjaca,15/16,juventus,0,0.0,5.0,385,Croatia,Sub
+Luke Shaw,15/16,manchester-united,0,0.0,0.0,24,England,Sub
+Jorrit Hendrix,15/16,psv-eindhoven,0,1.0,2.0,434,Netherlands,Sub
+Anthony Martial,15/16,manchester-united,2,0.0,11.0,516,France,LW
+Raúl Jiménez,15/16,sl-benfica,3,2.0,15.0,544,Mexico,Sub
+Héctor Herrera,15/16,atletico-madrid,0,0.0,0.0,170,Mexico,Sub
+Jesse Lingard,15/16,manchester-united,0,1.0,7.0,350,England,Sub
+Sergio Rico,15/16,paris-saint-germain,0,0.0,0.0,540,Spain,GK
+Bertrand Traoré,15/16,olympique-lyonnais,0,0.0,2.0,43,Burkina Faso,RW
+Julian Brandt,15/16,borussia-dortmund,0,0.0,1.0,86,Germany,LM
+Jonathan Tah,15/16,bayer-04-leverkusen,0,0.0,2.0,540,Germany,Sub
+Calum Chambers,15/16,arsenal,0,0.0,0.0,12,England,RCB
+Óliver Torres,15/16,sevilla,1,0.0,4.0,252,Spain,CM
+André Gomes,15/16,barcelona,1,0.0,5.0,252,Portugal,Sub
+Bernard,15/16,shakhtar-donetsk,0,1.0,5.0,304,Brazil,Sub
+Victor Andrade,15/16,sl-benfica,0,0.0,0.0,15,Brazil,Sub
+Thomas Foket,15/16,kaa-gent,1,0.0,3.0,549,Belgium,RCB
+Rodrigo De Paul,15/16,valencia,0,0.0,1.0,86,Argentina,RW
+Luciano Vietto,15/16,atletico-madrid,1,1.0,7.0,227,Argentina,Sub
+Adrien Rabiot,15/16,juventus,3,0.0,6.0,520,France,CDM
+Sebá,15/16,olympiacos,0,0.0,5.0,427,Brazil,LW
+Nélson Semedo,15/16,barcelona,0,0.0,1.0,270,Portugal,RB
+Derlis González,15/16,dynamo-kyiv,1,2.0,11.0,632,Paraguay,Res
+Julian Green,15/16,bayern-munchen,0,0.0,0.0,62,United States,LM
+Marvin Schulz,15/16,borussia-mgladbach,0,0.0,0.0,34,Germany,Sub
+Ederson,15/16,manchester-city,0,0.0,0.0,270,Brazil,GK
+Lucas Vázquez,15/16,real-madrid,0,2.0,2.0,330,Spain,Sub
+Paulo Dybala,15/16,juventus,1,0.0,13.0,420,Argentina,CAM
+Joshua Kimmich,15/16,bayern-munchen,0,0.0,3.0,631,Germany,Sub
+Maxwel Cornet,15/16,olympique-lyonnais,1,0.0,3.0,123,France,Sub
+Kingsley Coman,15/16,bayern-munchen,2,5.0,12.0,427,France,Sub
+Rúben Neves,15/16,fc-porto,0,1.0,4.0,471,Portugal,Sub
+Gonçalo Guedes,15/16,valencia,1,0.0,11.0,495,Portugal,Sub
+Nico Elvedi,15/16,borussia-mgladbach,0,0.0,0.0,93,Switzerland,Sub
+Ruben Loftus-Cheek,15/16,chelsea,0,0.0,0.0,77,England,Sub
+Andreas Pereira,15/16,lazio,0,0.0,0.0,28,Brazil,LM
+Viktor Kovalenko,15/16,shakhtar-donetsk,0,0.0,1.0,74,Ukraine,CAM
+Matías Kranevitter,15/16,sevilla,0,0.0,2.0,45,Argentina,RDM
+Joshua Brenet,15/16,1899-hoffenheim,0,0.0,3.0,572,Netherlands,Sub
+Santi Mina,15/16,valencia,0,0.0,3.0,229,Spain,Sub
+Mario Lemina,15/16,galatasaray,0,0.0,0.0,3,Gabon,Sub
+Pa Konate,15/16,malmo-ff,0,1.0,1.0,270,Sweden,Sub
+Gastón Pereiro,15/16,psv-eindhoven,0,0.0,1.0,253,Uruguay,RW
+Guillermo Varela,15/16,manchester-united,0,0.0,0.0,90,Uruguay,Sub
+Thomas Partey,15/16,atletico-madrid,0,0.0,0.0,47,Ghana,Sub
+Ángel Correa,15/16,atletico-madrid,1,0.0,6.0,127,Argentina,Sub
+Renato Sanches,15/16,lille-osc,0,0.0,4.0,540,Portugal,Sub
+Luka Jović,15/16,real-madrid,0,0.0,1.0,2,Serbia,Res
+Erdal Rakip,15/16,malmo-ff,0,0.0,1.0,181,Sweden,LCM
+Anderson Talisca,15/16,besiktas,2,0.0,8.0,214,Brazil,CAM
+Moses Simon,15/16,kaa-gent,0,1.0,4.0,295,Nigeria,Sub
+Danilo,15/16,valencia,0,0.0,1.0,83,Brazil,Sub
+Danilo,15/16,valencia,0,0.0,1.0,83,Brazil,RCB
+Danilo,15/16,valencia,0,0.0,1.0,83,Brazil,Sub
+Danilo,15/16,valencia,0,0.0,1.0,83,Brazil,Sub
+Danilo,15/16,valencia,0,0.0,1.0,83,Belgium,RM
+Wendell,15/16,bayer-04-leverkusen,0,1.0,1.0,540,Brazil,LB
+Maksym Malyshev,15/16,shakhtar-donetsk,0,0.0,2.0,113,Ukraine,RDM
+Mahmoud Dahoud,15/16,borussia-dortmund,0,0.0,7.0,431,Germany,LDM
+Corentin Tolisso,15/16,bayern-munchen,0,1.0,10.0,540,France,LCM
+Lucas Hernández,15/16,bayern-munchen,0,0.0,1.0,222,France,Sub
+Pavel Dolgov,15/16,zenit-st-petersburg,0,0.0,0.0,29,Russia,Res
+Wilfrid Kaptoum,15/16,barcelona,0,0.0,1.0,62,Cameroon,Res
+Jason Denayer,15/16,olympique-lyonnais,0,0.0,2.0,279,Belgium,Sub
+Alex Iwobi,15/16,arsenal,0,0.0,1.0,77,Nigeria,Sub
+Jean-Kévin Augustin,15/16,rb-leipzig,0,0.0,0.0,5,France,Sub
+Jordy de Wijs,15/16,psv-eindhoven,0,0.0,0.0,16,Netherlands,LCB
+Kelechi Iheanacho,15/16,manchester-city,0,0.0,0.0,73,Nigeria,Sub
+Steven Bergwijn,15/16,tottenham,0,1.0,0.0,5,Netherlands,Sub
+Rodrigo,15/16,valencia,0,0.0,3.0,60,Spain,Sub
+Rodrigo,15/16,valencia,0,0.0,3.0,60,Spain,Res
+Rodrigo,15/16,valencia,0,0.0,3.0,60,Brazil,Sub
+Marko Rog,15/16,napoli,0,0.0,2.0,385,Croatia,Sub
+Alfreð Finnbogason,15/16,olympiacos,1,0.0,2.0,58,Iceland,Res
+Juan Muñoz,15/16,sevilla,0,0.0,0.0,11,Spain,Sub
+Christopher Nkunku,15/16,rb-leipzig,0,0.0,0.0,3,France,Res
+Nicolas Isimat-Mirin,15/16,psv-eindhoven,0,0.0,0.0,280,France,RCB
+Franz Brorsson,15/16,malmo-ff,0,0.0,0.0,90,Sweden,Sub
+Bruno Henrique,15/16,vfl-wolfsburg,0,1.0,3.0,152,Brazil,CM
+Sergi Samper,15/16,barcelona,0,0.0,0.0,135,Spain,Sub
+Felipe Carvalho,15/16,malmo-ff,0,0.0,0.0,144,Uruguay,Res
+Aldo Kalulu,15/16,olympique-lyonnais,0,0.0,0.0,111,France,Sub
+Kenedy,15/16,chelsea,0,0.0,0.0,107,Brazil,Sub
+Leandro Putaro,15/16,vfl-wolfsburg,0,0.0,0.0,1,Germany,Res
+Cameron Borthwick-Jackson,15/16,manchester-united,0,0.0,0.0,47,England,Res
+Rafa Mir,15/16,valencia,0,0.0,1.0,56,Spain,Res
