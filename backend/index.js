@@ -12,22 +12,6 @@ var db = mysql.createConnection({
     database:'footy',
 })
 
-//db.connect(function(err) {
-//    if (err) throw err;
-//    var sql = "INSERT INTO `Players` (`id`,`PlayerName`, `Goals`) VALUES (5,'inception', 'good movie');";
-//    db.query(sql, function (err, result) {
-//      if (err) throw err;
-//      console.log(result.affectedRows + " record(s) updated");
-//    });
-//  });
-//
-//app.get('/', (require, response) => {
-//    const sqlInsert = "INSERT INTO `Players` (`PlayerName`, `Goals`) VALUES ('Spider2', 'good movie');";
-//    db.query(sqlInsert, (err, result) => {
-//        response.send("Hello world!!!");
-//    })
-//})
-
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
@@ -35,18 +19,33 @@ app.use(express.json());
 app.get("/api/get", (require, response) => {
     const sqlSelect = "SELECT * FROM Players NATURAL JOIN Country LIMIT 5";
     db.query(sqlSelect, (err, result) => {
+        if (err)
+          console.log(err);
         response.send(result);
     });
+});
+
+app.post("/api/search", (require, response) => {
+    const PlayerName = "%" + require.body.PlayerName + "%";
+   
+    const sqlSelect = "SELECT * FROM Players NATURAL JOIN Country WHERE PlayerName LIKE ?";
+    db.query(sqlSelect, PlayerName, (err, result) => {
+        if (err)
+          console.log(err);
+        console.log(result);
+        response.send(result);
+    })
 });
 
 app.post("/api/insert", (require, response) => {
     const PlayerName = require.body.PlayerName;
     const Goals = require.body.Goals;
-
-    const sqlInsert = "INSERT INTO `Players` (`PlayerName`, `Goals`) VALUES (?,?)";
-    db.query(sqlInsert, [PlayerName, Goals], (err, result) => {
+    const CountryName = require.body.CountryName;
+   
+    const sqlInsert = "INSERT INTO Players (PlayerName, Goals, CountryID) VALUES (?,?,(SELECT CountryID FROM Country WHERE CountryName LIKE ? LIMIT 1));";
+    db.query(sqlInsert, [PlayerName, Goals, CountryName], (err, result) => {
         if (err)
-        console.log(error);
+        console.log(err);
     })
 });
 
@@ -57,7 +56,7 @@ app.delete("/api/delete/:PlayerName", (require, response) => {
     console.log(PlayerName)
     db.query(sqlDelete, PlayerName, (err, result) => {
         if (err) 
-        console.log(error);
+        console.log(err);
     })
 });
 
@@ -69,7 +68,7 @@ app.put("/api/update/", (require, response) => {
     console.log([NewGoals, PlayerName]);
     db.query(sqlUpdate, [NewGoals,PlayerName ], (err, result) => {
         if (err) 
-        console.log(error);
+        console.log(err);
     })
 });
 
