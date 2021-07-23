@@ -34,7 +34,14 @@ app.get("/api/top", (require, response) => {
     });
 });
 
-
+app.get("/api/assist", (require, response) => {
+    const sqlSelect ="select * from( select CountryID,SUM(Assists) as TotalAssists from Players Group By CountryID) as t1 natural join Country ORDER BY TotalAssists DESC LIMIT 10;"
+    db.query(sqlSelect, (err, result) => {
+        if (err)
+          console.log(err);
+        response.send(result);
+    });
+});
 app.post("/api/search", (require, response) => {
     const PlayerName = "%" + require.body.PlayerName + "%";
    
