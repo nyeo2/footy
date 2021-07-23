@@ -4,7 +4,7 @@ import Axios from 'axios';
 function Search(){
   const [PlayerName, setPlayerName] = useState('');
   const [PlayerList, setPlayerList] = useState([]);
-  const [NewGoals, setNewGoals] = useState("");
+  const [Goals, setGoals] = useState("");
 
   useEffect(() => {
     Axios.get('http://localhost:3002/api/get').then((response) => {
@@ -27,9 +27,9 @@ function Search(){
   const updatePlayer = (PlayerName) => {
     Axios.put(`http://localhost:3002/api/update`, {
       PlayerName: PlayerName,
-      NewGoals: NewGoals
+      Goals: Goals
     });
-    setNewGoals("")
+    setGoals("")
   };
 
   return (
@@ -51,12 +51,14 @@ function Search(){
               <h1> Player Name: {val.PlayerName} </h1>
               <p> Goals/Assists/Shots: {val.Goals}/{val.Assists}/{val.Shots}</p>
               <p> Country: {val.CountryName}</p>
-              <button onClick={() => { deletePlayer(val.PlayerName) }}> Delete</button>
+              <button onClick={() => { 
+                deletePlayer(val.PlayerName);
+              }}> Delete</button>
               <input type="text" id="updateInput" onChange={(e) => {
-                setNewGoals(e.target.value)
+                setGoals(e.target.value)
               } }/>
               <button onClick={() => {
-                updatePlayer(val.PlayerName)
+                updatePlayer(val.PlayerName);
               }}> Update</button>
               </div>
           );

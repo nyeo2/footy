@@ -25,6 +25,16 @@ app.get("/api/get", (require, response) => {
     });
 });
 
+app.get("/api/top", (require, response) => {
+    const sqlSelect = "select * from ( select CountryID, MAX(Goals) as maxgoals from Players GROUP BY CountryID ) as x inner join Players on Players.CountryID = x.CountryID AND Players.Goals = x.maxgoals inner join Country on Country.CountryID = Players.CountryID ORDER BY Goals DESC;";
+    db.query(sqlSelect, (err, result) => {
+        if (err)
+          console.log(err);
+        response.send(result);
+    });
+});
+
+
 app.post("/api/search", (require, response) => {
     const PlayerName = "%" + require.body.PlayerName + "%";
    
@@ -62,11 +72,10 @@ app.delete("/api/delete/:PlayerName", (require, response) => {
 
 app.put("/api/update/", (require, response) => {
     const PlayerName = require.body.PlayerName;
-    const NewGoals = require.body.NewGoals;
+    const Goals = require.body.Goals;
 
     const sqlUpdate = "UPDATE `Players` SET `Goals` = ? WHERE `PlayerName`= ?";
-    console.log([NewGoals, PlayerName]);
-    db.query(sqlUpdate, [NewGoals,PlayerName ], (err, result) => {
+    db.query(sqlUpdate, [Goals,PlayerName ], (err, result) => {
         if (err) 
         console.log(err);
     })
