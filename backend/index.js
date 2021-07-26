@@ -56,11 +56,11 @@ app.post("/api/search", (require, response) => {
 
 app.post("/api/insert", (require, response) => {
     const PlayerName = require.body.PlayerName;
-    const Goals = require.body.Goals;
+    const Stats = require.body.Stats.split('/');
     const CountryName = require.body.CountryName;
    
-    const sqlInsert = "INSERT INTO Players (PlayerName, Goals, CountryID) VALUES (?,?,(SELECT CountryID FROM Country WHERE CountryName LIKE ? LIMIT 1));";
-    db.query(sqlInsert, [PlayerName, Goals, CountryName], (err, result) => {
+    const sqlInsert = "INSERT INTO Players (PlayerName, Goals, Assists, Shots, CountryID) VALUES (?,?,?,?,(SELECT CountryID FROM Country WHERE CountryName LIKE ? LIMIT 1));";
+    db.query(sqlInsert, [PlayerName, Stats[0], Stats[1], Stats[2], CountryName], (err, result) => {
         if (err)
         console.log(err);
     })
@@ -79,10 +79,11 @@ app.delete("/api/delete/:PlayerName", (require, response) => {
 
 app.put("/api/update/", (require, response) => {
     const PlayerName = require.body.PlayerName;
-    const Goals = require.body.Goals;
+    console.log(require.body.Stats)
+    const Stats = require.body.Stats.split('/');
 
-    const sqlUpdate = "UPDATE `Players` SET `Goals` = ? WHERE `PlayerName`= ?";
-    db.query(sqlUpdate, [Goals,PlayerName ], (err, result) => {
+    const sqlUpdate = "UPDATE `Players` SET `Goals` = ?, `Assists` = ?, `Shots` = ? WHERE `PlayerName`= ?";
+    db.query(sqlUpdate, [Stats[0], Stats[1], Stats[2] ,PlayerName ], (err, result) => {
         if (err) 
         console.log(err);
     })
