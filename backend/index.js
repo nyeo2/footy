@@ -55,15 +55,25 @@ app.post("/api/search", (require, response) => {
 });
 
 app.post("/api/insert", (require, response) => {
-    const PlayerName = require.body.PlayerName;
+
+   const PlayerName = require.body.PlayerName;
     const Stats = require.body.Stats.split('/');
     const CountryName = require.body.CountryName;
-   
-    const sqlInsert = "INSERT INTO Players (PlayerName, Goals, Assists, Shots, CountryID) VALUES (?,?,?,?,(SELECT CountryID FROM Country WHERE CountryName LIKE ? LIMIT 1));";
-    db.query(sqlInsert, [PlayerName, Stats[0], Stats[1], Stats[2], CountryName], (err, result) => {
+    const sqlCountry = "(SELECT CountryID FROM Country WHERE CountryName LIKE ? LIMIT 1)"
+
+    
+  db.query(sqlCountry, CountryName, function(err, rows){
+     if(err) {
+       throw err;
+     } else {
+        const sqlInsert = "INSERT INTO Players (PlayerName, Goals, Assists, Shots, CountryID) VALUES (?,?,?,?,?);";
+        db.query(sqlInsert, [PlayerName, Stats[0], Stats[1], Stats[2], rows[0].CountryID], (err, result) => {
         if (err)
         console.log(err);
-    })
+        })
+     }
+   });
+    
 });
 
 app.delete("/api/delete/:PlayerName", (require, response) => {

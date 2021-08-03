@@ -1,8 +1,7 @@
-import React, {component, useState, useEffect} from "react";
+import React, {useState, useEffect} from "react";
 import Axios from 'axios';
 
 function Assist(){
-  const [CountryName, setCountryName] = useState('');
   const [CountryList, setCountryList] = useState([]);
 
   useEffect(() => {
