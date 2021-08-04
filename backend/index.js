@@ -25,6 +25,15 @@ app.get("/api/get", (require, response) => {
     });
 });
 
+app.get("/api/country", (require, response) => {
+    const sqlSelect = "SELECT * FROM Country";
+    db.query(sqlSelect, (err, result) => {
+        if (err)
+          console.log(err);
+        response.send(result);
+    });
+});
+
 app.get("/api/top", (require, response) => {
     const sqlSelect = "select * from ( select CountryID, MAX(Goals) as maxgoals from Players GROUP BY CountryID ) as x inner join Players on Players.CountryID = x.CountryID AND Players.Goals = x.maxgoals inner join Country on Country.CountryID = Players.CountryID ORDER BY Goals DESC;";
     db.query(sqlSelect, (err, result) => {
